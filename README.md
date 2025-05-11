@@ -5,9 +5,10 @@
 </a>-->
 
 Welcome to my GitHub! And...  
-honestly, I don't know what to say — I'm just bored.
+*honestly, I don't know what to say — I'm just bored.*
 
-⟵ [My profile source](https://www.reddit.com/r/Frieren/comments/18lvslo/frierens_machine_gun_seb_inks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+⟵ [My profile picture](https://github.com/CivilianSauce/CivilianSauce/blob/main/rwtd252o977c1.jpeg) 
+and [its source](https://www.reddit.com/r/Frieren/comments/18lvslo/frierens_machine_gun_seb_inks/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button).
 
 <!--
 
