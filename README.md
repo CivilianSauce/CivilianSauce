@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-<a href="https://github.com/CivilianSauce/CivilianSauce/blob/main/rwtd252o977c1.jpeg">
+<!--<a href="https://github.com/CivilianSauce/CivilianSauce/blob/main/rwtd252o977c1.jpeg">
   <img src="rwtd252o977c1.jpeg" alt="Profile Image" width="29%" align="right">
-</a>
+</a>-->
 
 Welcome to my GitHub! And...  
 honestly, I don't know what to say — I'm just bored.
